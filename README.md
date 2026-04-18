@@ -4,7 +4,7 @@
 
 <h3>
 Welcome to my GitHub profile! I’m passionate about <b>Web Development</b>, <b>Data Science</b>, <b>Computer Vision</b>, and <b>LLMs</b>.  
-I love building projects that solve problems and tackle unique challenges! 
+I love building projects that solve problems and tackle unique challenges! My other account is shreyashetty-2024
 </h3>
 
 ---

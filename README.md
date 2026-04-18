@@ -1,16 +1,29 @@
-## Hi there 👋
+![Hi, I'm Shreya, Welcome to my read me!](https://pimp-my-readme-next.vercel.app/api/wavy-banner?subtitle=Welcome%20to%20my%20read%20me%21&title=Hi%2C%20I%27m%20Shreya)
 
-<!--
-**shreyashetty-24/shreyashetty-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&width=435&lines=About+Me%3A)](https://git.io/typing-svg)  
 
-Here are some ideas to get you started:
+<h3>
+Welcome to my GitHub profile! I’m passionate about <b>Web Development</b>, <b>Data Science</b>, <b>Computer Vision</b>, and <b>LLMs</b>.  
+I love building projects that solve problems and tackle unique challenges! 
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1100&color=FFFFFF&width=435&lines=Tech+Stack%3A)](https://git.io/typing-svg)  
+
+**Languages:** Python, JavaScript, C++, C, HTML, CSS  
+**Frameworks & Tools:** React, Node.js, Django, Flask  
+**Data Science:** Pandas, NumPy, OpenCV, PyTorch, TensorFlow  
+**Other:** Git, Docker, SQL  
+
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1100&color=FFFFFF&width=435&lines=GitHub+Stats%3A)](https://git.io/typing-svg)  
+
+![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyashetty-2024&show_icons=true&theme=tokyonight)  
+
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1100&color=FFFFFF&width=435&lines=Reach+Out%3A)](https://git.io/typing-svg)  
+
+[![LinkedIn](https://pimp-my-readme-next.vercel.app/api/social-media?social=LinkedIn)](https://www.linkedin.com/in/shreya-shetty-b32951332/)  
